@@ -18,6 +18,7 @@
 * [Podcast] - [ENVY LABS - Ruby5](http://ruby5.envylabs.com/)
 * [Podcast] - [Ruby Rogues](http://rubyrogues.com/)
 * [Screencast] - [Free Ruby on Rails Screencasts](http://railscasts.com/?type=free)
+* [Screencast] - [Railscasts](http://railscasts.com/)
 * [Screencast] - [Ruby Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/ruby)
 * [Screencast] - [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free)
 * [Podcast] - [The Ruby Show](http://rubyshow.com/)
